@@ -1,0 +1,17 @@
+title: Scatterlab
+tagline: "Scatterlab"
+description: "Our decision-making tools and data infrastructures help communities and organisations leverage their data for greater aims, without compromising the autonomy of their members."
+markdown: kramdown
+production_url: http://blog.scatterlab.org
+permalink: /:year/:month/:title.html
+
+# the number of post per page
+authors:
+  anouk:
+    name: "Anouk Ruhaak"
+    username: "anouk"
+    email: anouk@scatterlab.org
+    image: /image/sky.jpg
+    about: Software engineer // Data-journalist // Founder Scatterlab 
+    link: "http://twitter.com/anoukruhaak"
+default_author: anouk
