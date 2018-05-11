@@ -4,6 +4,7 @@ title:  "Human Intelligence Tasks"
 date:   2018-05-10 18:08:11 +0200
 categories: jekyll update
 image: /image/candy.jpg
+description: A loud ping alerts me to the arrival of a new job. ‘Locate unboxed fashion items in the image (DON’T FORGET BELT)’ the title reads. I click the link and start tagging unboxed dresses, shoes and, indeed, belts. The job is worth 11,549 HITs, which I soon learn stands for Human Intelligence Tasks and counts the number of human actions it takes to complete it...
 authors:
  - anouk
 ---
