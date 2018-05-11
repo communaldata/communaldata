@@ -3,7 +3,7 @@ layout: post
 title:  "Human Intelligence Tasks"
 date:   2018-05-10 18:08:11 +0200
 categories: jekyll update
-image: /image/plant.jpg
+image: /image/candy.jpg
 authors:
  - anouk
 ---
